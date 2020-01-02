@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "react intro"
+title:  "React Introduce"
 date:   2020-01-02
 # desc: ""
 keywords: "react"
