@@ -6,7 +6,7 @@ desc: "django & celery & redis"
 keywords: "django,celery,redis"
 categories: [Django]
 tags: [django,celery,redis]
-icon: icon-html
+icon: icon-django
 ---
 
 ## Django에서 Celery + Redis를 이용한 비동기 작업
@@ -50,7 +50,7 @@ $ redis-server # redis 실행$ redis-cli ping # 정상 설치되었는지 확인
 
 `PONG` 메시지를 띄우면 설치 성공이다.
 
-- Redis 설치하기(Window) => [참고 링크](../Redis/redis.md)
+- Redis 설치하기(Window) => [참고 링크](/database/2020/01/03/redis-intro.html)
 
 ### 폴더 구조
 

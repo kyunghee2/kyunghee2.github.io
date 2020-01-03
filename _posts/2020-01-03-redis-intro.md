@@ -6,7 +6,7 @@ desc: "django & celery & redis"
 keywords: "Database,NoSql,Redis"
 categories: [Database]
 tags: [Database,NoSql,Redis]
-icon: icon-html
+icon: icon-redis
 ---
 
 ## Redis(Remote Directory System)
