@@ -21,6 +21,8 @@
 - name: Django
   href: /django/
 
-- name: Life
-  href: /life/
+- name: Redis
+  href: /redis/
+# - name: Life
+#   href: /life/
 
